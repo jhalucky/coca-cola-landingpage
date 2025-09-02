@@ -12,7 +12,7 @@ function App() {
   return (
     <div className="bg-[#971017f8] text-black dark:bg-black dark:text-white transition-colors duration-300 w-full h-screen overflow-y-scroll snap-y snap-mandatory scroll-smooth">
       <section className="snap-start h-screen"><Page1 /></section>
-      {/* <section className="snap-start h-screen"><Page2 /></section> */}
+      
       <section className="snap-start h-screen"><PageCanArt /></section>
       <section className="snap-start h-screen"><Page3 /></section>
       <section className="snap-start h-screen"><Page5 /></section>

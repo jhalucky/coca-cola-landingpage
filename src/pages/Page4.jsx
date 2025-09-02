@@ -13,7 +13,6 @@ const Page4 = () => {
         </p>
       </div>
 
-      {/* SVG Coca-Cola Bottle Logo at Bottom */}
       <div className="w-full flex justify-center mt-auto">
         <img
           src="always_coke.svg"

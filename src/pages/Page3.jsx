@@ -24,10 +24,7 @@ const Page3 = () => {
               muted
               playsInline
             />
-            {/* Optional overlay label */}
-            {/* <div className="absolute bottom-2 left-2 text-black dark:text-white text-xs bg-black/60 px-2 py-1 rounded">
-              {video.label}
-            </div> */}
+          
           </div>
         ))}
       </div>
