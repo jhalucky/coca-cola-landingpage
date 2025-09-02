@@ -2,7 +2,6 @@
   "name": "coca-cola-landing",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://jhalucky.github.io/coca-cola-landingpage",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
