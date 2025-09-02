@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Coca-Cola Red background -->
+  <circle cx="32" cy="32" r="32" fill="#E41E26"/>
+
+  <!-- Stylized cursive-like C -->
+  <text x="50%" y="58%" text-anchor="middle" font-family="Brush Script MT, cursive" font-size="38" fill="white" font-weight="bold">
+    C
+  </text>
+</svg>
